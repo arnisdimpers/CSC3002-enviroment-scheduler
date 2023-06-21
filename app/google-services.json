@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "126654335172",
+    "firebase_url": "https://userroles-8f634-default-rtdb.firebaseio.com",
+    "project_id": "userroles-8f634",
+    "storage_bucket": "userroles-8f634.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126654335172:android:c618cf33bf852e02156191",
+        "android_client_info": {
+          "package_name": "com.example.environment_scheduler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126654335172-lcu899ievrlblg51njun9m62g7lqmdkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxTkh2IS7T_o7pTQM_cKaDdd4nmO-AuBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126654335172-lcu899ievrlblg51njun9m62g7lqmdkl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126654335172:android:57dcab8ed0aa05ad156191",
+        "android_client_info": {
+          "package_name": "com.example.expensetrackingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126654335172-lcu899ievrlblg51njun9m62g7lqmdkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxTkh2IS7T_o7pTQM_cKaDdd4nmO-AuBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126654335172-lcu899ievrlblg51njun9m62g7lqmdkl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126654335172:android:08ae59ec9d72e85e156191",
+        "android_client_info": {
+          "package_name": "com.smallacademy.userroles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126654335172-lcu899ievrlblg51njun9m62g7lqmdkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxTkh2IS7T_o7pTQM_cKaDdd4nmO-AuBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126654335172-lcu899ievrlblg51njun9m62g7lqmdkl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
